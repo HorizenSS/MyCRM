@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/background"/>
+    <qresource prefix="/new/bouton">
+        <file>ressource/bouton/accueil.png</file>
+        <file>ressource/bouton/analyse.png</file>
+        <file>ressource/bouton/Apps-Home-icon.png</file>
+        <file>ressource/bouton/gestion_contacts.png</file>
+        <file>ressource/bouton/gestion_interne.png</file>
+        <file>ressource/bouton/logout.png</file>
+        <file>ressource/bouton/picto-spe-sig.png</file>
+        <file>ressource/bouton/sav.png</file>
+        <file>ressource/bouton/vente.png</file>
+        <file>ressource/bouton/precedent.png</file>
+    </qresource>
+</RCC>
